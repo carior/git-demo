@@ -8,3 +8,4 @@
 'use strict';
 
 console.log('sdfs');
+var a = 1;
